@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "921777086341",
+    "project_id": "auth-89208",
+    "storage_bucket": "auth-89208.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921777086341:android:52fde5a255657b17486eec",
+        "android_client_info": {
+          "package_name": "com.upiiz.auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlk_e9lHbmAPixBFQubNoDxWTlKZp-gxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
